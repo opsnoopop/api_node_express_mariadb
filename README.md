@@ -10,7 +10,7 @@ A simple Node Express API application and MariaDB, containerized with Docker.
 - Node.js: 24.3.0
 - dotenv: 17.2.1 # npm install dotenv
 - express: 5.1.0 # npm install express
-- mariadb: 3.4.5 # npm install mariadb
+- mysql2: 3.4.5 # npm install mysql2
 
 **MariaDB Container: FROM mariadb:lts-ubi9**
 - OS Red Hat Enterprise Linux: 9.6 (Plow)
